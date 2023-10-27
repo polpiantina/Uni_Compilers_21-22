@@ -1,0 +1,20 @@
+
+assign 10 to a,b;
+print(a,b);
+read(x,y);
+print(1,+(2,3,4));
+if (> x y) print(x) else print(y) end;
+while (> x 0) {
+	assign - x 1 to x;
+	print(x)
+}
+
+/*
+
+read(_1,y,z);
+if (> _1 y)
+	if (> _1 z) print(_1) else print(z) end
+else
+	if (> y z) print(y) else print(z) end
+end
+*/

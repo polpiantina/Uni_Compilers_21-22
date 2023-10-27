@@ -1,0 +1,71 @@
+
+/*input***
+read(a_1,_2B);
+while (<> a_1 _2B)
+ if (> a_1 _2B) assign - a_1 _2B to a_1
+ else assign - _2B a_1 to _2B end;
+print(a_1, +(_2B, a_1, 10), 100)
+//commentino
+
+*/
+
+print(c +(_2B, a_1, 10), 100)
+
+
+/*	ESERCIZIO A
+
+read(a);
+print(+(a,1))
+
+*/
+
+/*	ESERCIZIO B
+
+assign 10 to x;
+assign 20 to y;
+assign 30 to z;
+print(+(x,*(y,z)))
+
+*/
+
+/*	TEST 1 3.2
+
+assign 10 to a,b;
+print(a,b);
+read(x,y);
+print(1,+(2,3,4));
+if (> x y) print(x) else print(y) end;
+while (> x 0) {
+	assign - x 1 to x;
+	print(x)
+}
+
+*/
+
+/*	TEST 2 3.2
+
+read(_1,y,z);
+if (> _1 y)
+	if (> _1 z) print(_1) else print(z) end
+else
+	if (> y z) print(y) else print(z) end
+end
+
+*/
+
+/*
+
+read(x);
+while (> x 0) {
+	assign - x 1 to x;
+	print(x)
+}
+
+*/
+
+/* 
+
+assign + ( 1 , 1 ) to x,y;
+print(x)
+
+*/
